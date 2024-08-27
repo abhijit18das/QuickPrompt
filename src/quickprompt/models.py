@@ -5,6 +5,8 @@ class SupportedProviders(Enum):
     ANTHROPIC = "anthropic"
     GROQ = "groq"
 
+
+# added space
 class GroqModels(Enum):
     LLAMA3_70B = "llama3-70b-8192"
     LLAMA3_8B = "llama3-8b-8192"
