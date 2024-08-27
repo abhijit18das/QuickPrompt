@@ -4,6 +4,8 @@ from quickprompt import generate_prompt
 from quickprompt.models import ModelConfig, SupportedProviders
 from quickprompt.exceptions import UnsupportedProviderError
 
+
+# not working
 @pytest.fixture
 def mock_openai_response():
     return MagicMock(choices=[MagicMock(message=MagicMock(content="Mocked OpenAI response"))])
