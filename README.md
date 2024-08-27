@@ -1,4 +1,4 @@
-# QuickPrompt
+# QuickPrompt Package
 
 QuickPrompt is a powerful tool for rapidly generating high-quality prompts for various AI models, tailored to specific use cases and requirements.
 
